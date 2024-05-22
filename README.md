@@ -51,16 +51,13 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 ## Screenshots
 
 ![Upload Screen](./screenshots/main.png)
-*Upload an image with a clear foreground and background.*
-
-![Processing Screen](./screenshots/processing.png)
-*The image is being processed to remove the background.*
+*Upload an image with a clear face.*
 
 ![Result Screen](./screenshots/result.png)
-*The background is successfully removed from the image.*
+*The face is blurred.*
 
 ![Error Screen](./screenshots/error.png)
-*The background is not removed from the image.*
+*The face is not blurred from the image. Errors*
 
 ## Usage
 
